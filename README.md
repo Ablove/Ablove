@@ -1,13 +1,13 @@
-# Hola ! Bienvenido aqui ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
-<h2>I'm Abdullahi a.k.a Almarex :blush: <br /></h2>
+## Hola! Bienvenido aqui ! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
+<h4>I'm Abdullahi a.k.a Almarex :blush: <br /></h4>
 - :relieved: I'm a UI/UX Designer, Web Developer and a Youtuber <br />
 - 🖤 I love bringing new Figma Designs to live and turn it into a real website <br/>
-- 🤪🤪I'm very friendly to interact with <br />
+- 🤪 I'm very friendly to interact with <br />
 - 😎 I'm always Open to new Oportunities that will enhance my skills and productivity<br />
 - 😇I'm Currently Learning Javascript <br />
 - 🤫 My Little secret... I'm deeply in love with Coding :heart:<br />
 - :video_game: I love gaming <br />
-- i speak French, English and a little bit of Spanish<br />
+- I speak French, English and a little bit of Spanish<br />
 - My real name is Lasisi Abdullahi Mayowa
 - :gift_heart: This is my Special gift to you !
 
