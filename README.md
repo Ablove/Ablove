@@ -4,7 +4,6 @@
 - 🖤 I love bringing new Figma Designs to live and turn it into a real website <br/>
 - 🤪 I'm very friendly to interact with <br />
 - 😎 I'm always Open to new Oportunities that will enhance my skills and productivity<br />
-- 😇I'm Currently Learning Javascript <br />
 - 🤫 My Little secret... I'm deeply in love with Coding :heart:<br />
 - :video_game: I love gaming <br />
 - I speak French, English and a little bit of Spanish<br />
