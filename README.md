@@ -2,9 +2,9 @@
 <h4>I'm Abdullahi a.k.a Almarex :blush: <br /></h4>
 - :relieved: I'm a UI/UX Designer, Web Developer and a Youtuber <br />
 - 🖤 I love bringing new Figma Designs to live and turn it into a real website <br/>
-- 🤪 I'm very friendly to interact with <br />
-- 😎 I'm always Open to new Oportunities that will enhance my skills and productivity<br />
-- 🤫 My Little secret... I'm deeply in love with Coding :heart:<br />
+- I'm very friendly to interact with <br />
+- I'm always Open to new Oportunities that will enhance my skills and productivity<br />
+- My Little secret... I'm deeply in love with Coding :heart:<br />
 - :video_game: I love gaming <br />
 - I speak French, English and a little bit of Spanish<br />
 - My real name is Lasisi Abdullahi Mayowa
@@ -20,6 +20,8 @@
 ![Node Js](https://img.shields.io/badge/-NodeJs-E34F26?style=flat-square&logo=node)
 ![Express JS](https://img.shields.io/badge/-Express-CCFC6C?style=flat-square&logo=express)
 ![Mongo DB](https://img.shields.io/badge/-MongoDB-E34F26?style=flat-square&logo=mongo)
+![Python](https://img.shields.io/badge/-Python-CCFC6C?style=flat-square&logo=python)
+
 
 ## All Language stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Almarex-Web-Dev&layout=compact)](https://github.com/Almarex-Web-Dev/github-readme-stats)
